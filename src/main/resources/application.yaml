@@ -1,3 +1,7 @@
 spring:
   application:
     name: climatempo
+
+
+app:
+  clima-api-key: "f056d9aea22eb22913e5ad2c594eabcb"
